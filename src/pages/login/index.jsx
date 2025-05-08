@@ -12,7 +12,7 @@ export default function Login(){
         </div>
         <div className="containerLogin">
             <form action="submit" className="login">
-                <h2>Bem-vindo de volta <br></br> à <b>NomeLoja</b></h2>
+                <h2>Bem-vindo de volta <br></br> à <b>Loja...</b></h2>
 
                 <label>
                     Email
