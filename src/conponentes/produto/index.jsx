@@ -20,7 +20,7 @@ export default function Produto() {
         <div className="header">
             <button className="navButton" onClick={() => Navigate("/produtos")}>Produtos</button>
             <button className="navButton" onClick={() => Navigate("/login")}>Login</button>
-            <button className="navButton" onClick={() => Navigate("/cadastro")}>Cadastro</button>
+            <button className="navButton" onClick={() => Navigate("/cadastroLogin")}>Cadastro</button>
         </div>
 
         <div className="container">
